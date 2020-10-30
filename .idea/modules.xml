@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ForestSpa/.idea/ForestSpa.iml" filepath="$PROJECT_DIR$/../ForestSpa/.idea/ForestSpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" filepath="$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/forest-spa.iml" filepath="$PROJECT_DIR$/.idea/forest-spa.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Nowy folder/redux--05-finished/.idea/redux--05-finished.iml" filepath="$USER_HOME$/Desktop/Nowy folder/redux--05-finished/.idea/redux--05-finished.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/sol/.idea/sol.iml" filepath="$USER_HOME$/Desktop/sol/.idea/sol.iml" />
+    </modules>
+  </component>
+</project>

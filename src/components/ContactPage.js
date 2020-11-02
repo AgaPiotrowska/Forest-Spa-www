@@ -6,7 +6,7 @@ import Telephone from "./Telephone";
 import ContactIcons from "./ContactIcons";
 import SocialMediaIcons from "./SocialMediaIcons";
 import Maps from "./Maps";
-import OpeningHours from "./OpeningHous";
+import OpeningHours from "./OpeningHours";
 
 
 const ContactPage = ({header}) => {

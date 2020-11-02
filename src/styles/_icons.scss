@@ -1,0 +1,30 @@
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  padding: 1.25rem;
+
+  @media (max-width: 450px) {
+    padding: 0.7rem;
+  }
+}
+
+.contact-icon {
+  margin: 0.9375rem;
+}
+
+.div_map {
+  height: 400px;
+  margin-bottom: 1.875rem;
+}
+
+.icon img {
+  width: 46px;
+
+  @media (max-width: 450px) {
+    width: 30px;
+  }
+}

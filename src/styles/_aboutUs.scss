@@ -1,0 +1,72 @@
+@import "./colors.scss";
+
+.about-image {
+  height: 25rem;
+  margin: 0.625rem;
+
+  @media (max-width: 1000px) {
+    height: 10rem;
+  }
+
+  @media (max-width: 570px) {
+    height: 5rem;
+  }
+}
+
+.container-about-us {
+  display: flex;
+  margin: 0.625rem;
+  text-align: center;
+
+  @media (max-width: 1000px) {
+    font-size: 0.6rem;
+  }
+
+  @media (max-width: 570px) {
+    font-size: 0.4rem;
+  }
+
+}
+
+.container-title {
+  margin-top: 2.5rem;
+  color: $green;
+
+  @media (max-width: 1000px) {
+    margin-top: 0.2rem;
+  }
+
+  @media (max-width: 570px) {
+    margin-top: 0.1rem;
+  }
+
+}
+
+.about-title {
+  margin: 0.625rem;
+  color: $green;
+}
+
+.about-description {
+  color: $green;
+  margin-bottom: 0.9375rem;
+}
+
+.about-container {
+  margin: 0 auto;
+  width: 60%;
+
+  @media (max-width: 1000px) {
+    width: 70%;
+  }
+
+  @media (max-width: 570px) {
+    width: 80%;
+  }
+
+}
+
+.about-us {
+  margin: 1.25rem;
+  padding: 0.625rem;
+}

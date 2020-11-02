@@ -3,7 +3,7 @@ import React from "react";
 import Telephone from "./Telephone";
 import Address from "./Address";
 import SocialMediaIcons from "./SocialMediaIcons";
-import OpeningHours from "./OpeningHous";
+import OpeningHours from "./OpeningHours";
 
 const Footer = () => {
     return (

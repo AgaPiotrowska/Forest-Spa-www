@@ -6,14 +6,24 @@ import {dataTreatment} from "../data/dataTreatment";
                 <div className="price-container">
                     {dataTreatment.map((data) => {
                     return (
-                    <div>
-                        {data.categoryName +
-                        " , " +
-                        data.categoryTreatments.treatmentName +
-                        " ," +
-                        data.categoryTreatments.treatmentPrice
-                        }
-                    </div>
+                        <div className="category-group">
+                                <div className="category-name">
+                                    {data.categoryName}
+                                </div>
+                                <div>
+                                {data.categoryTreatments.map((treatment) => {
+                                return (
+                                    <div className="treatment-row">
+                                            <div>
+                                                {treatment.treatmentName}
+                                            </div>
+                                            <div className="treatment-price">
+                                            {treatment.treatmentPrice}
+                                            </div>
+                                     </div>
+
+                                )})} </div>
+                        </div>
                 )
                 })}
             </div>

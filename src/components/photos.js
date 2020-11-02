@@ -1,136 +1,136 @@
 export const photos = [
         {
-        src: "./images/forest spa-1.JPG",
+        src: "./images/forest-1.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-4.JPG",
+        src: "./images/forest-44.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-9.JPG",
+        src: "./images/forest-9.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-33.JPG",
+        src: "./images/forest-33.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-25.JPG",
+        src: "./images/forest-25.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-32.JPG",
+        src: "./images/forest-32.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-14.JPG",
+        src: "./images/forest-14.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-186.JPG",
+        src: "./images/forest-186.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-2.JPG",
+        src: "./images/forest-2.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-116.JPG",
+        src: "./images/forest-116.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-113.JPG",
+        src: "./images/forest-113.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-160.JPG",
+        src: "./images/forest-160.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-79.JPG",
+        src: "./images/forest-79.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-6.JPG",
+        src: "./images/forest-6.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-133.JPG",
+        src: "./images/forest-133.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-139.JPG",
+        src: "./images/forest-139.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-23.JPG",
+        src: "./images/forest-23.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-15.JPG",
+        src: "./images/forest-15.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-2.JPG",
+        src: "./images/forest-2.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-179.JPG",
+        src: "./images/forest-179.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-120.JPG",
+        src: "./images/forest-120.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-2.JPG",
+        src: "./images/forest-2.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-105.JPG",
+        src: "./images/forest-105.JPG",
         width: 4,
         height: 3
         },
         {
-        src: "./images/forest spa-116.JPG",
+        src: "./images/forest-116.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-33.JPG",
+        src: "./images/forest-33.JPG",
         width: 3,
         height: 4
         },
         {
-        src: "./images/forest spa-16.JPG",
+        src: "./images/forest-16.JPG",
         width: 4,
         height: 3.7
         },
         {
-        src: "./images/forest spa-137.JPG",
+        src: "./images/forest-137.JPG",
         width: 4,
         height: 3
         }

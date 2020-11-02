@@ -1,0 +1,25 @@
+@import "./colors.scss";
+
+.header-title {
+  height: 60px;
+  font-size: 1.25rem;
+  color: $green;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0.625rem;
+
+  @media (max-width: 750px) {
+    font-size: 0.9rem;
+    height: 40px;
+  }
+
+  @media (max-width: 550px) {
+    font-size: 0.7rem;
+    height: 20px;
+  }
+
+  @media (max-width: 350px) {
+    font-size: 0.5rem;
+    height: 15px;
+  }
+}

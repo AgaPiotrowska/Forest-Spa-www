@@ -7,7 +7,7 @@ const Team = ({header, mainPicture}) => {
     return (
         <div>
             <Header header="Nasz zespół"/>
-            <MainPicture mainPicture="images/forest spa-86.jpg"/>
+            <MainPicture mainPicture="images/forestspa-86.jpg"/>
         </div>
 )};
 

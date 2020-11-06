@@ -12,7 +12,7 @@ const Navigation = () => {
 
     return(
             <nav className="page-header">
-                <img src="../images/logo.png" alt="LogoForest" className="page-header-logo"/>
+                <a href="/"><img src="../images/logo.png" alt="LogoForest" className="page-header-logo"/></a>
                 <button onClick={handleHamburgerClick} className="hamburger" id="hamburger">
                     <div className="line"></div>
                     <div className="line"></div>

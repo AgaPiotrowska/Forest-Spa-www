@@ -12,7 +12,7 @@ const OffersAll = ({offerTitle, offerPicture, offerLink}) => {
                     </div>
                     <div className="row">
                         <Offer1 offerTitle="Depilacja systemem lycon" offerPicture="images/forest-115.jpg" offerLink="depilacja-systemem-lycon"/>
-                        <Offer1 offerTitle="Depilacja woskiem klasycznym" offerPicture="images/forest-23.jpg" offerLink="depilacja-woskiem-klasycznym"/>
+                        <Offer1 offerTitle="Zabiegi na ciało" offerPicture="images/forest-23.jpg" offerLink="zabiegi-na-cialo"/>
                         <Offer1 offerTitle="Makijaż permanentny" offerPicture="images/forest-185.jpg" offerLink="makijaz-permanentny"/>
                         <Offer1 offerTitle="Pielęgnacja oprawy oka" offerPicture="images/forest-137.jpg" offerLink="pielegnacja-oprawy-oka"/>
                     </div>

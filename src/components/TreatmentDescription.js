@@ -12,7 +12,7 @@ export const Treatments = [
         id: 'kosmetyka-dloni-i-stop',
         photo: '../images/forest-109.jpg',
         title: 'Kosmetyka dłoni i stóp',
-        description: 'jdhfjdahfjfjnfcj'
+        description: 'Dłonie są wizytówką człowieka. Stopy też! Pamiętaj aby dbać o nie cały rok. W Forest SPA dbamy zarówno o piękne, naturalne paznokcie jak i odpowiednią pielęgnację skóry dłoni i stóp. W naszej ofercie znajdziecie do wyboru kolory z takich firm jak OPI, Semilac oraz Orly. O aksamitną skórę dłoni i stóp dbamy wraz z rękawicami i skarpetkami kolagenowymi VOESH oraz CALLUX Pro - intensywnie działający żel przeznaczony do profesjonalnego zabiegu pedicure z formułą skomponowaną z kwasów organicznych.'
     },
     {
         id: 'masaze',
@@ -30,25 +30,25 @@ export const Treatments = [
         id: 'depilacja-systemem-lycon',
         photo: '../images/forest-115.jpg',
         title: 'Depilacja systemem lycon',
-        description: 'jdhfjdahfjfjnfcj'
+        description: 'Marzysz o gładkiej skórze? Z nami osiągniesz ten cel (prawie) bezboleśnie. Zabiegi odbywają się w miłej i dyskretnej atmosferze, w higienicznych warunkach. Od lat współpracujemy z marką Lycon. Jest to nasz wosk do zadań specjalnych, do miejsc szczególnie delikatach i wrażliwych tj. bikini, pachy, wąsik, brwi. To doskonale opracowany system, tak aby zabieg był w najwyższym stopniu skuteczny, jak najmniej bolesny. Niska temperatura topnienia w połączeniu z delikatną recepturą dodają woskom odżywczo-regenerujących właściwości. Zabiegi z wykorzystaniem wosków Lycon pozostawiają skórę gładką i delikatną w dotyku. Na większych powierzchniach wykonujemy depilację paskowymi woskami naturalnymi lub miodowymi.'
     },
     {
-        id: 'depilacja-woskiem-klasycznym',
+        id: 'zabiegi-na-cialo',
         photo: '../images/forest-23.jpg',
-        title: 'Depilacja woskiem klasycznym',
-        description: 'jdhfjdahfjfjnfcj'
+        title: 'Zabiegi na ciało',
+        description: 'Nasze zabiegi na ciało to Terapie i Rytuały o rozmaitych właściwościach pielęgnacyjnych. Naturalne składniki kosmetyków do ciała Organique zapewniają skórze zróżnicowaną pielęgnację i ochronę przed utratą nawilżenia. Zabiegi wzbogacamy kąpielami w wannie z solą bocheńską i solami aromaterapeutycznymi.'
     },
     {
         id: 'makijaz-permanentny',
         photo: '../images/forest-185.jpg',
         title: 'Makijaż permanentny',
-        description: 'jdhfjdahfjfjnfcj'
+        description: 'Nasz sekret na trwałą korekcję nieidealnych brwi bądź ust - makijaż permanentny. W naszym salonie wykonywany zawsze w naturalny sposób tak aby zdobił twarz i tuszował niedoskonałości. Wykonujemy makijaż brwi metodą cieniowania / ombre oraz ust kontur z wypełnieniem. Pracujemy na renomowanych barwnikach Diva Color.'
     },
     {
         id: 'pielegnacja-oprawy-oka',
         photo: '../images/forest-137.jpg',
         title: 'Kosmetyka twarzy',
-        description: 'jdhfjdahfjfjnfcj'
+        description: 'Marzysz o pięknym spojrzeniu? W naszym salonie stawiamy na naturalność w stylizacji oprawy oka. Wykonujemy hennę proszkową oraz żelową - pracujemy na najpopularniejszych i niezawodnych produktach do koloryzacji brwi i rzęs RefectoCil co zawsze daję gwarancję wysokiej jakości usługi. Oferujemy również lifting i laminację rzęs oraz brwi Noble Lashes. Regulację delikatnej oprawy oka wykonujemy opcjonalnie pęsetą bądź niezawodnym woskiem do depilacji miejsc wrażliwych firmy Lycon.'
     },
 ];
 

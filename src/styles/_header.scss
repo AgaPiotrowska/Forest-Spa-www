@@ -53,6 +53,11 @@
     align-items: center;
   }
 
+  .nav-links {
+    margin: 0 auto;
+    text-align: center;
+  }
+
   .nav-links a {
     font-size: 1rem;
   }
@@ -81,7 +86,9 @@
   }
 
   .nav-links {
+    margin: 0 auto;
     position: fixed;
+    text-align: center;
     background: $green;
     height: 100vh;
     width: 200px;
@@ -102,7 +109,7 @@
   .close-side-bar {
     display: flex;
     justify-content: flex-end;
-    padding-right: 20px;
+    padding-right: 30px;
   }
 }
 

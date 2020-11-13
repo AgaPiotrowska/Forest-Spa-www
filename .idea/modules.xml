@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ForestSpa/.idea/ForestSpa.iml" filepath="$PROJECT_DIR$/../ForestSpa/.idea/ForestSpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" filepath="$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/forest-spa.iml" filepath="$PROJECT_DIR$/.idea/forest-spa.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/forest-spa-master.iml" filepath="$PROJECT_DIR$/.idea/forest-spa-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../Nowy folder/redux--05-finished/.idea/redux--05-finished.iml" filepath="$PROJECT_DIR$/../../Nowy folder/redux--05-finished/.idea/redux--05-finished.iml" />

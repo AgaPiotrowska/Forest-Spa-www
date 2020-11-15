@@ -24,7 +24,7 @@ export const Treatments = [
         id: 'kosmetologia-estetyczna',
         photo: '../images/forest-146.jpg',
         title: 'Kosmetologia estetyczna',
-        description: 'jdhfjdahfjfjnfcj'
+        description: 'Ideą naszego salonu jest dbałość o przywrócenie pięknego, a przede wszystkim naturalnego wyglądu. Opracowujemy idealnie dobrany zestaw zabiegowy tak, aby zmaksymalizować efekty i osiągnąć je w jak najkrótszym czasie. Dzięki zabiegom z zastosowaniem usieciowanego kwasu hialuronowego możemy uwydatnić i nawilżyć usta, skorygować owal twarzy, wygładzić bruzdy nosowo-wargowe oraz linie marionetki, a także wypełnić drobne zmarszczki. Efekty zabiegu są niemal natychmiastowe i utrzymują się od 6 do 12 miesięcy. Zabiegi mezoterapii to idealny sposób na odmłodzenie, rewitalizację i głębokie nawilżenie skóry twarzy, szyi i dekoltu, a także stymulację skóry głowy. Stosowane przez nas preparaty są najwyższej jakości i spełniają wszystkie kryteria bezpieczeństwa.'
     },
     {
         id: 'depilacja-systemem-lycon',

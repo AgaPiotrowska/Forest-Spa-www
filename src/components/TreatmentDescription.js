@@ -58,7 +58,7 @@ export const Treatments = [
      return (
         <div>
             <div className="container-about-treatment">
-                <img src={treatment.photo} className="about-image"/>
+                <img src={treatment.photo} className="about-image" alt="treatmentphoto"/>
                 <div className="container-title-treatment">
                     <h2 className="about-title">{treatment.title}</h2>
                     <p className="about-description">{treatment.description}</p>

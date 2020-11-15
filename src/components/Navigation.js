@@ -20,7 +20,7 @@ const Navigation = () => {
                 </button>
                 <ul onClick={() => setShowSidebar (false)} className={"nav-links" + (showSidebar ? " show" : "")} id="nav-links">
                         <li className="close-side-bar">
-                            <div><img src="../images/close.svg" width="20px"/></div></li>
+                            <div><img src="../images/close.svg" width="20px" alt="close"/></div></li>
                         <li><NavLink to="/">Strona główna</NavLink></li>
                         <li><Link to="/offerpage">Zabiegi</Link></li>
                         <li><Link to="/pricing">Cennik</Link></li>

@@ -24,10 +24,10 @@
   }
 }
 
-.box-image {
-  max-width: 100%;
-  margin-top: 1.875rem;
-}
+//.box-image {
+//  max-width: 100%;
+//  margin-top: 1.875rem;
+//}
 
 .box-image {
   max-width: 100%;
@@ -35,7 +35,7 @@
 }
 
 .box a .box-title {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: lighter;
   color: $green;
   text-align: center;
@@ -60,17 +60,34 @@
 
 .box a:hover {
   text-decoration: underline;
+  text-decoration-color: black;
 }
 
 .container-title-treatment {
   width: 70%;
   margin: 0 auto;
   text-align: center;
-  padding: 15px;
+  padding: 5px;
   margin-bottom: 10px;
+
+  @media (max-width: 1100px) {
+    width: 90%;
+  }
 }
 
 .about-description {
   margin: 0 auto;
-  text-align: justify;
+  text-align: left;
+}
+
+.about-image {
+  height: 300px;
+
+  @media (max-width: 500px) {
+    height: 200px;
+  }
+
+  @media (max-width: 330px) {
+    height: 130px;
+  }
 }

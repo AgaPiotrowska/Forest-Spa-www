@@ -19,7 +19,7 @@ In **Gallery** section you will have an inside into beauty salon interiors.
 
 Contact details as well as the link to social media pages, opening hours and directions how to get there can be found on **Contact Page**. 
 
-See live at: 
+See live at: http://forestspa.com.pl/
 
 ## Built with
 

@@ -32,6 +32,11 @@
 .category-name {
   margin-bottom: 0.625rem;
   font-weight: bold;
+  font-size: 1.2rem;
+
+  @media (max-width: 516px) {
+    font-size: 0.8rem;
+  }
 }
 
 .price-container {

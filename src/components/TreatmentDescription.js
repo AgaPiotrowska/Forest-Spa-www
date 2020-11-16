@@ -29,7 +29,7 @@ export const Treatments = [
     {
         id: 'depilacja-systemem-lycon',
         photo: '../images/forest-115.JPG',
-        title: 'Depilacja systemem lycon',
+        title: 'Depilacja',
         description: 'Marzysz o gładkiej skórze? Z nami osiągniesz ten cel (prawie) bezboleśnie. Zabiegi odbywają się w miłej i dyskretnej atmosferze, w higienicznych warunkach. Od lat współpracujemy z marką Lycon. Jest to nasz wosk do zadań specjalnych, do miejsc szczególnie delikatach i wrażliwych tj. bikini, pachy, wąsik, brwi. To doskonale opracowany system, tak aby zabieg był w najwyższym stopniu skuteczny, jak najmniej bolesny. Niska temperatura topnienia w połączeniu z delikatną recepturą dodają woskom odżywczo-regenerujących właściwości. Zabiegi z wykorzystaniem wosków Lycon pozostawiają skórę gładką i delikatną w dotyku. Na większych powierzchniach wykonujemy depilację paskowymi woskami naturalnymi lub miodowymi.'
     },
     {

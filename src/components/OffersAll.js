@@ -11,7 +11,7 @@ const OffersAll = ({offerTitle, offerPicture, offerLink}) => {
                         <Offer1 offerTitle="Kosmetologia estetyczna" offerPicture="images/forest-146.JPG" offerLink="kosmetologia-estetyczna"/>
                     </div>
                     <div className="row">
-                        <Offer1 offerTitle="Depilacja systemem lycon" offerPicture="images/forest-115.JPG" offerLink="depilacja-systemem-lycon"/>
+                        <Offer1 offerTitle="Depilacja" offerPicture="images/forest-115.JPG" offerLink="depilacja-systemem-lycon"/>
                         <Offer1 offerTitle="Zabiegi na ciało" offerPicture="images/forest-23.JPG" offerLink="zabiegi-na-cialo"/>
                         <Offer1 offerTitle="Makijaż permanentny" offerPicture="images/forest-185.JPG" offerLink="makijaz-permanentny"/>
                         <Offer1 offerTitle="Pielęgnacja oprawy oka" offerPicture="images/forest-137.JPG" offerLink="pielegnacja-oprawy-oka"/>
